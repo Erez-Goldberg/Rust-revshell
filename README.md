@@ -11,20 +11,20 @@ A simple demonstration of a TCP reverse shell implemented in Rust.
 ### Linux
 
 1. Download and run the rustup script to install Rust  
-```
+```sh
   curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 2. Configure  current shell session to use the installed Rust environment
-```
+```sh
   source $HOME/.cargo/env
 ```
 3. Verify the Installation
-```
+```sh
   rustc --version
   cargo --version
 ```
 Create a New Rust Project
-```
+```sh
   cargo new shell_rust
   cd shell_rust
 ```
