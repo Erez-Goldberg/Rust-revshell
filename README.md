@@ -30,12 +30,16 @@ Create a New Rust Project
 ```
 
 ## Compilation Instructions
-1. **Clone the Repository**
-2. **Build the Project**: Use Cargo to build the project.
+1. **Clone the Repository** Clone this repository to your local machine.
+    ```sh
+    git clone https://github.com/Erez-Goldberg/Rust-revshell.git
+    cd Rust-revshell
+    ```
+3. **Build the Project**: Use Cargo to build the project.
     ```sh
     cargo build --release
     ```
-3. **Run the Executable**
+4. **Run the Executable**
 
 ### Windows
 
@@ -45,10 +49,10 @@ Create a New Rust Project
     rustup target add x86_64-pc-windows-gnu
     ```
 
-2. **Clone the Repository**: Clone this repository to your local machine.
+2. Clone this repository to your local machine.
     ```sh
-    git clone https://github.com/your-username/rust-reverse-shell.git
-    cd rust-reverse-shell
+    git clone https://github.com/Erez-Goldberg/Rust-revshell.git
+    cd Rust-revshell
     ```
 
 3. **Install MinGW**: Download and install [MinGW-w64](http://mingw-w64.org/doku.php/download) to get the necessary GCC toolchain for Windows.
