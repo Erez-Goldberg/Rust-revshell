@@ -34,7 +34,9 @@ A simple demonstration of a TCP reverse shell implemented in Rust.
     ```sh
     cargo build --release
     ```
-4. **Run the Executable**
+4. **The path of the new ELF file: Rust-revshell/target/release**
+   
+5. **Run the Executable**
 
 ### Windows
 
@@ -58,6 +60,7 @@ A simple demonstration of a TCP reverse shell implemented in Rust.
     ```
 
 5. **The path of the new executalbe is: Rust-revshell/target/x86_64-pc-windows-gnu/release**
+   
 6. **Run the Executable**
 
 ## Usage
