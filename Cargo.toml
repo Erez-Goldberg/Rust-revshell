@@ -1,5 +1,5 @@
 [package]
-name = "rev_shell_github"
+name = "Rust-revshell"
 version = "0.1.0"
 authors = ["Erez Goldberg"]
 edition = "2021"
