@@ -57,7 +57,8 @@ A simple demonstration of a TCP reverse shell implemented in Rust.
     cargo build --release --target x86_64-pc-windows-gnu
     ```
 
-5. **Run the Executable**
+5. **The path of the new executalbe is: Rust-revshell/target/x86_64-pc-windows-gnu/release**
+6. **Run the Executable**
 
 ## Usage
 Replace the `target_ip` and `target_port` variables in the `main.rs` file with the IP address and port of the attacker's machine.
