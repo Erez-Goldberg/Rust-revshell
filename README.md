@@ -23,11 +23,6 @@ A simple demonstration of a TCP reverse shell implemented in Rust.
   rustc --version
   cargo --version
 ```
-Create a New Rust Project
-```sh
-  cargo new shell_rust
-  cd shell_rust
-```
 
 ## Compilation Instructions
 1. **Clone the Repository** Clone this repository to your local machine.
