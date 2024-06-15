@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "rev_shell_github"
+name = "Rust-revshell"
 version = "0.1.0"
